@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" fill="none">
+  <defs>
+    <linearGradient id="uniBg" x1="0" y1="0" x2="800" y2="450" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#14532D"/>
+      <stop offset="0.48" stop-color="#16A34A"/>
+      <stop offset="1" stop-color="#6B0F23"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#uniBg)"/>
+  <circle cx="140" cy="95" r="150" fill="#4ADE80" fill-opacity="0.2"/>
+  <circle cx="690" cy="370" r="170" fill="#80132C" fill-opacity="0.45"/>
+  <!-- Classical University Dome & Columns -->
+  <path d="M230 220 C230 145 305 110 400 110 C495 110 570 145 570 220 Z" fill="#80132C" stroke="#DCFCE7" stroke-width="3"/>
+  <rect x="200" y="220" width="400" height="24" rx="4" fill="#F0FDF4"/>
+  <rect x="220" y="244" width="360" height="124" fill="#4A0415" fill-opacity="0.88"/>
+  <!-- Pillars -->
+  <rect x="242" y="244" width="24" height="124" fill="#DCFCE7"/>
+  <rect x="314" y="244" width="24" height="124" fill="#DCFCE7"/>
+  <rect x="388" y="244" width="24" height="124" fill="#DCFCE7"/>
+  <rect x="462" y="244" width="24" height="124" fill="#DCFCE7"/>
+  <rect x="534" y="244" width="24" height="124" fill="#DCFCE7"/>
+  <rect x="176" y="368" width="448" height="20" rx="6" fill="#22C55E"/>
+  <!-- Graduation Cap Icon Above -->
+  <polygon points="400,44 475,74 400,104 325,74" fill="#4ADE80" stroke="#FFFFFF" stroke-width="3"/>
+  <path d="M355 88 V112 C355 120 375 128 400 128 C425 128 445 120 445 112 V88" stroke="#FFFFFF" stroke-width="3" fill="#15803D"/>
+  <!-- Floating University Badges -->
+  <g font-family="sans-serif" font-weight="700" font-size="14">
+    <rect x="44" y="72" width="132" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.95"/>
+    <text x="110" y="97" text-anchor="middle" fill="#6B0F23">UI • ITB • UGM</text>
+
+    <rect x="618" y="72" width="138" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.95"/>
+    <text x="687" y="97" text-anchor="middle" fill="#15803D">ITS • IPB • UNAIR</text>
+
+    <rect x="56" y="280" width="128" height="40" rx="20" fill="#4A0415" stroke="#4ADE80" stroke-width="2"/>
+    <text x="120" y="305" text-anchor="middle" fill="#4ADE80">SNBP &amp; UTBK</text>
+
+    <rect x="616" y="280" width="132" height="40" rx="20" fill="#4A0415" stroke="#4ADE80" stroke-width="2"/>
+    <text x="682" y="305" text-anchor="middle" fill="#FFFFFF">TOP 10 PTN RI</text>
+  </g>
+</svg>
